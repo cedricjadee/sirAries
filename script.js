@@ -26,3 +26,5 @@ submitBtn.addEventListener('click', (e) => {
 	bookingForm.hidden = true;
 	bookingSuccess.hidden = false;
 });
+
+
